@@ -14,7 +14,7 @@ summary: My team created a game that is similar to Space Invaders.
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Project3.png">
-  <img class="ui image" src="../images/Project3#1.PNG">
+  <img class="ui image" src="../images/Project3#1.png">
 </div>
 
 
