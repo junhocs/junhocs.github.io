@@ -3,13 +3,13 @@
     "name": "Jun Ho Im",
     "label": "Student",
     "picture": "https://junhocs.github.io/images/rsz_jun_ho.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "junhoim@hawaii.edu",
+    "phone": "808-389-9504",
+    "website": "https://junhocs.github.io",
+    "summary": "I am a Korean and Information and Computer Science major at the University of Hawaii at Manoa",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1114 Punahou St. Apt 11A",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "junhocs",
+        "url": "http://github.com/junhocs"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "junhoim",
+        "url": "https://www.linkedin.com/in/jun-ho-im-2379661b5/"
       },
       {
         "network": "twitter",
