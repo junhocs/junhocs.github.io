@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Project3.png
+image: images/killthemutas.png
 title: Kill the Mutas
 permalink: projects/Kill-the-Mutas
 # All dates must be YYYY-MM-DD format!
