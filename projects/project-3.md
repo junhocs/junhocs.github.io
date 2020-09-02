@@ -12,7 +12,7 @@ labels:
 summary: A simple paint tool that will spray images using EZJava.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Paint.png">
 
 
 
