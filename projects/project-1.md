@@ -12,14 +12,15 @@ labels:
 summary: My team created a game that is similar to Space Invaders.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium right floated rounded image">
   <img class="ui image" src="../images/Project3.png">
   <img class="ui image" src="../images/killthemutas.png">
 </div>
 
-This was one of the projects for my ICS 111 class.
-The objective of this game is to not let the mutalisks that come from the right side of the screen
+Kill the Mutas is one of my game projects for my ICS 111 class in spring 2019. The objective of this game is to not let the mutalisks that come from the right side of the screen
 get to the left side of the screen.
+
+Kill the Mutas is coded using Java and the EZjava library.
 
 
 You can learn more at the [Youtube video](https://www.youtube.com/watch?v=WgVMzIvhTlM&feature=youtu.be).
