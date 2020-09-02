@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roomba.PNG
+image: images/roomba.png
 title: Robot Vaccum
 permalink: projects/Robot Vaccum
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A program that will generate a map and a robot vaccum that will navigate around it.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/roomba.PNG">
+<img class="ui medium right floated rounded image" src="../images/roomba.png">
 
 
 
