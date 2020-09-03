@@ -20,8 +20,8 @@ labels:
 
   For the first week of this class I was assigned modules from Freecodecamp to learn the basics of Javascript and ES6 for this class. I tend to have a habbit of working on multiple assignments at once due to my short attention span, and because of that I tend to start on assignments relativly early in the night, but go until 4A.M. in the morning. After two different assignments and a cup of coffee later I really started to get into the Javascript modules. I learned Java in my ICS 111 class, and Javascript having Java in the name was very similar to Java, but much easier in my opinion. 
   
-  <img class="ui medium top left square image" src="../images/rinse.jpg">
+<img class="ui medium top left square image" src="../images/rinse.jpg">
   
-  ## Rinse and Repeat
+## Rinse and Repeat
  
   It's really easy for someone to learn something one day, but later on without any review just flat out forget everything that they have learned. I agree with the popular opinion of people saying that coding is like playing a musical instrument. Without practice and review one is able to just flat out forget how to format/ use the syntax of given coding language. However, with the practice WODs assigned to us so far I am finding coding practice really enjoyable, and it is making me excited for what is to come from the ICS 314 class in the future.
