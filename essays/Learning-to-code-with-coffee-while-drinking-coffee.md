@@ -22,6 +22,6 @@ labels:
   
   <img class="ui medium top left square image" src="../images/rinse.jpg">
   
- ## Rinse and Repeat
+  ## Rinse and Repeat
  
   It's really easy for someone to learn something one day, but later on without any review just flat out forget everything that they have learned. I agree with the popular opinion of people saying that coding is like playing a musical instrument. Without practice and review one is able to just flat out forget how to format/ use the syntax of given coding language. However, with the practice WODs assigned to us so far I am finding coding practice really enjoyable, and it is making me excited for what is to come from the ICS 314 class in the future.
