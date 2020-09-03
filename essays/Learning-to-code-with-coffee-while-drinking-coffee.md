@@ -8,7 +8,7 @@ labels:
   - Javascript
   - Learning
 ---
-<img class="ui large left circular floated image" src="../images/paintbrushes.jpg">
+<img class="ui large top left square floated image" src="../images/grinding.jpg">
 
 ## Grinding Through the Night
 
