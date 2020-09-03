@@ -16,5 +16,5 @@ summary: A simple paint tool that will spray images using EZJava.
 
 
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+You can learn more at the [Youtube video](https://www.youtube.com/watch?v=ikf830dvp6o&feature=youtu.be&ab_channel=imthonyfy).
 
