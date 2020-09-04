@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-draft: false
 title: The Real Way to Learn Coding?
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-03
