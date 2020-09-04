@@ -21,4 +21,5 @@ labels:
   
 ## Expectations
 
+ For me I have a certain amount of expectations for this class and this semester as a whole. As stated earlier I am not the best when it comes to picking things up in a fast pace, however I am hoping that learning more software engineering lets me engage more during these coding exercises to help me pick up the learning pace. For the most part I am excited to learn Javascript, the coding challenges give me a sense of excitement when it comes to applying what I learned before onto a new topic. 
   
