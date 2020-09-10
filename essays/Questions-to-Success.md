@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 <img class="ui medium top left square image" src="../images/Lightbulb.jpg">
- ## Questions to Success
+## Questions to Success
  
 It is a proven fact that asking questions will improve our learning. Not only will it answer the unknown for the one asking it, it can be a learning opportunity for the one answering the question as well. I believe that asking a lot of questions is a faster way to learn than trying to figure it out yourself. Of course, you can learn by yourself, however your learning can be accelerated exponentially with the input of people that have more prior knowledge than you do. I do not believe there are “dumb” questions, questions exist because the asker is currently not knowledgeable in that subject of asking however we can see that there is a “smarter” way of asking questions.
 
