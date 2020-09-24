@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-draft: true
 title: The Necessity of Formatting
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
