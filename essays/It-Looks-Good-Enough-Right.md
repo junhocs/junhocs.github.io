@@ -17,7 +17,7 @@ labels:
 
 Front end development, we all come across it. Weather its to browsing a news article or scrolling through someones social media feed. All these websites are put together using HTML and CSS. However, just using HTML and CSS to concatenate can be difficult. Several hours of hard work and debugging can still lead you to a website that looks like a toddlers drawing. So my question now is how can I work smarter to make it look better?
 
-<img class="ui medium top left square image" src="../images/semanticui.jpg">
+<img class="ui medium top left square image" src="../images/semanticui.png">
 
 ## Semantic UI and Other CSS Frameworks
 
