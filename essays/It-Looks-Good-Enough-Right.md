@@ -20,5 +20,7 @@ Front end development, we all come across it. Weather its to browsing a news art
 
 There are many different CSS frameworks you could choose from. To list a few there are Bootstrap, Foundation, Susy, and UIkit. But all of these frameworks exist to make life easier for whoever is designing a website. Lets say you wanted to make a menubar that looked pleasing to the eye you would have to spend alot more time trying to code every little thing when for example if you use Semantic UI you could just do something like "<div class="ui menu">" then have elements inside that menu. Not only that you can do things like add "left" or "right" and customize the attribute of the menu created with ease.
 
+## The Verdict
+
 
 
