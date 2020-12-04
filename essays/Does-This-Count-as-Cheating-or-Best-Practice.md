@@ -11,6 +11,8 @@ labels:
 ---
 ## The Patterns Will Show You the Solutions!
 
-As a student in computer science, it is really common for us to see repetitive problems with similar solutions. For example, in my Algorithms class  
+As a student in computer science, it is really common for us to see repetitive problems with similar solutions.  
 
+## Is it Cheating or Best Practice?
 
+In many coding classes students are told to not cheat/copy code to accomplish a certain task. 
