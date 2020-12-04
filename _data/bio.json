@@ -47,7 +47,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Lua",
+        "Python",
+        "React"
 
       ]
     },
@@ -56,7 +59,9 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu"
+        "Ubuntu",
+        "Windows",
+        "GitHub"
       ]
     }
   ],
@@ -85,7 +90,7 @@
       ]
     }
   ],
- 
+
   "references": [
     {
       "name": "Available upon request",
