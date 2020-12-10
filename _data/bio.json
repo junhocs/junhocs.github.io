@@ -8,8 +8,6 @@
     "website": "https://junhocs.github.io",
     "summary": "I am a Korean and Information and Computer Science major at the University of Hawaii at Manoa",
     "location": {
-      "address": "1114 Punahou St. Apt 11A",
-      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -34,7 +32,7 @@
       ]
     },
     {
-      "name": "Machine learning",
+      "name": "Database Systems",
       "keywords": [
       ]
     }
@@ -67,13 +65,24 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science , Korean (expected Spring, 2021)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.A.",
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.75",
-      "courses": [
+      "courses": [ "ICS 311", "ICS 314", "ICS 211", "ICS 212"
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Korean",
+      "studyType": "B.A.",
+      "startDate": "2017-09-01",
+      "endDate": "Present",
+      "gpa": "3.75",
+      "courses": [ "KOR 402", "KOR 403", "KOR 404", "KOR 422", "KOR 420", "KOR 421", "KOR 422", "KOR 425", "KOR 480",
+        "KOR 485"
       ]
     }
   ],
@@ -88,6 +97,13 @@
       "highlights": [
         "Supervise/ Assist students with the computer usage in the lab"
       ]
+    },
+    {
+      "company": "Yanagi Sushi",
+      "position": "General Staff",
+      "website": "https://www.yanagisushi-hawaii.com",
+      "startDate": "2019-06-01",
+      "endDate": "2020-06-01"
     }
   ],
 
