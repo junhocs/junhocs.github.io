@@ -71,7 +71,7 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.75",
-      "courses": [ "ICS 311", "ICS 314", "ICS 211", "ICS 212"
+      "courses": [ "ICS 311 Algorithms", "ICS 314 Software Engineering I", "ICS 211 Intro to Computer Science II", "ICS 212 Program Structure"
       ]
     },
     {
@@ -81,8 +81,8 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.75",
-      "courses": [ "KOR 402", "KOR 403", "KOR 404", "KOR 420", "KOR 421", "KOR 422", "KOR 425", "KOR 480",
-        "KOR 485"
+      "courses": [ "KOR 402 Fourth-Level Korean", "KOR 403 High-Advanced Korean 1", "KOR 404 High-Advanced Korean 2", "KOR 420 Korean Composition", "KOR 421 Media Analysis in Korean I", "KOR 422 Media Analysis in Korean II", "KOR 425 Selected Readings in Korean", "KOR 480 KOR Proficiency through Film",
+        "KOR 485 Korean-Acad Purposes I"
       ]
     }
   ],
