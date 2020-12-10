@@ -86,7 +86,14 @@
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "3.75",
-      "courses": [ "KOR 402 Fourth-Level Korean", "KOR 403 High-Advanced Korean 1", "KOR 404 High-Advanced Korean 2", "KOR 420 Korean Composition", "KOR 421 Media Analysis in Korean I", "KOR 422 Media Analysis in Korean II", "KOR 425 Selected Readings in Korean", "KOR 480 KOR Proficiency through Film",
+      "courses": [ "KOR 402 Fourth-Level Korean",
+        "KOR 403 High-Advanced Korean 1",
+        "KOR 404 High-Advanced Korean 2",
+        "KOR 420 Korean Composition", 
+        "KOR 421 Media Analysis in Korean I",
+        "KOR 422 Media Analysis in Korean II",
+        "KOR 425 Selected Readings in Korean",
+        "KOR 480 KOR Proficiency through Film",
         "KOR 485 Korean-Acad Purposes I"
       ]
     }
