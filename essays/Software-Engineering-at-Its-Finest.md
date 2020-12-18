@@ -20,7 +20,7 @@ From grinding endless hours on Leetcode to working on webapps for deployment wha
 
 During the timeframe of the software engineering course, if there were few things that were helpful on help my growth it would have to be the different design patterns of software engineering. While design patterns are found in software engineering, you can apply the concept of design patterns to any real life problem you encounter. From giving a business presentation to even every day cooking, design patterns make us realize and help us understand and use the tools to solve our everyday problems.
 
-<img class="ui medium top left square image" src="https://www.upliftingservice.com/wp-content/uploads/2020/01/ThinkstockPhotos-476118826.jpg'>
+<img class="ui medium top left square image" src="https://www.upliftingservice.com/wp-content/uploads/2020/01/ThinkstockPhotos-476118826.jpg">
 
 ## Coding Standards
 
